@@ -8,13 +8,11 @@ body {
 .icon.style1 {
   color: #a8cf45;
 }
-
-.icon.style2 {
-  color: #449fd4;
-}
-
 .icon.style3 {
   color: #0665af;
+}
+.icon.style5 {
+  color: #449fd4;
 }
 
 body.is-preload #header.alt .logo {
